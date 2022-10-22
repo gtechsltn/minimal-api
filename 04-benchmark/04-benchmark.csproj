@@ -12,4 +12,8 @@
     <PackageReference Include="BenchmarkDotNet" Version="0.13.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\03-minial-and-webapi-project\03-minial-and-webapi-project.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\03-minial-and-webapi-project\03-minial-and-webapi-project.csproj" />
+  </ItemGroup>
+
 </Project>
